@@ -1,18 +1,20 @@
 # Python
 All projects and Basic information related to Python and Projects done earlier in AWS
 
-**Introduction of Sagemaker **
-Amazon SageMaker is a fully managed machine learning (ML) service. With SageMaker, data scientists and developers can quickly and confidently build, train, and deploy ML models into a production-ready hosted environment. It provides a UI experience for running ML workflows that makes SageMaker ML tools available across multiple integrated development environments (IDEs). 
-With SageMaker, you can store and share your data without having to build and manage your servers. This gives you or your organizations more time to collaboratively build and develop your ML workflow and do it sooner. SageMaker provides managed ML algorithms to run efficiently against extremely large data in a distributed environment. With built-in support for bring-your-own algorithms and frameworks, SageMaker offers flexible distributed training options that adjust to your specific workflows. Within a few steps, you can deploy a model into a secure and scalable environment from the SageMaker console.
+**Introduction of Sagemaker**
+
+**Amazon SageMaker** is a fully managed machine learning (ML) service. With SageMaker, data scientists and developers can quickly and confidently build, train, and deploy ML models into a production-ready hosted environment. It provides a UI experience for running ML workflows that makes SageMaker ML tools available across multiple integrated development environments (IDEs). 
+With **SageMaker**, you can store and share your data without having to build and manage your servers. This gives you or your organizations more time to collaboratively build and develop your ML workflow and do it sooner. SageMaker provides managed ML algorithms to run efficiently against extremely large data in a distributed environment. With built-in support for bring-your-own algorithms and frameworks, SageMaker offers flexible distributed training options that adjust to your specific workflows. Within a few steps, you can deploy a model into a secure and scalable environment from the SageMaker console.
 
 **Amazon SageMaker Pricing Explained**
 
-SageMaker billing is based on a pay-as-you-go model. You pay only for the resources you use. There are no upfront fees or long-term commitments required. Instead, you can use the service on-demand to meet your dynamic needs. If you are not sure if the service suits your needs, you can use the Amazon SageMaker Free Tier to test it before committing long-term. The free tier provides a limited amount of resources each month for experimenting with each SageMaker feature.
+**SageMaker** billing is based on a pay-as-you-go model. You pay only for the resources you use. There are no upfront fees or long-term commitments required. Instead, you can use the service on-demand to meet your dynamic needs. If you are not sure if the service suits your needs, you can use the Amazon SageMaker Free Tier to test it before committing long-term. The free tier provides a limited amount of resources each month for experimenting with each SageMaker feature.
+
 ![image](https://github.com/palashbhatnagar/Python/assets/11159633/bca5befa-1de0-44bb-9897-70fe2443a52b)
 
 **How Does Amazon SageMaker Pricing Work?**
 
-Pricing for Amazon SageMaker is available in two billing options; Amazon SageMaker On-Demand or SageMaker Machine Learning Savings Plans. You can test the service for free in either case. The Amazon SageMaker Free Tier includes the following benefits for each SageMaker component:
+Pricing for** Amazon SageMaker** is available in two billing options; Amazon SageMaker On-Demand or SageMaker Machine Learning Savings Plans. You can test the service for free in either case. The Amazon SageMaker Free Tier includes the following benefits for each SageMaker component:
 
 1.	Amazon SageMaker Studio Notebooks – 250 hours on ml.t3.medium instances.
 2.	SageMaker Notebook instances – 250 hours on ml.t2.medium or ml.t3.medium instances.
